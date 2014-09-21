@@ -1,0 +1,11 @@
+{
+	"title"		:	"Horror Gamemode",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "roleplay" ],
+	"ignore"	:
+	[
+	"*.psd",
+	"*.vcproj",
+	"*.svn*"
+	]
+}

@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Horror"
+	"maps"		"^hr_"
+	"menusystem"	"1"
+	
+}
